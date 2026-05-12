@@ -18,7 +18,4 @@ Passionate about embedded systems, firmware development, and IoT.<br> I love the
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=M4BareMetal&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
